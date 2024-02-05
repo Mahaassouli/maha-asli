@@ -4,7 +4,7 @@ import streamlit as st
 custom_styles = """
     body {
         color: #1e1e1e;
-        background-color: #f0f0f0;
+        background-color: #00ff00;
     }
     .header {
         color: #e60000;

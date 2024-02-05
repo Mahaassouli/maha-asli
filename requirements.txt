@@ -1,5 +1,5 @@
-altair
-numpy
-pandas
-pydeck
-streamlit
+ streamlit 
+ yfinance as 
+ pandas as 
+ numpy as 
+ plotly.express
