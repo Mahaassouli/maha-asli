@@ -16,6 +16,7 @@ custom_styles = """
     }
 """
 
+
 # Ajouter les styles au document HTML
 st.markdown(f'<style>{custom_styles}</style>', unsafe_allow_html=True)
 
